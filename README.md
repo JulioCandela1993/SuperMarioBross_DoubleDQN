@@ -12,3 +12,5 @@ The research will show the benefits of using CNN in complex and high-dimensional
 Artificial Intelligence. Then, the Double DQN will be presented to
 deal with some of the deficiencies of CNN in DQN so that the agent
 can learn better policies and maximize the rewards.
+
+Note: Trained with GPU. Execute the code with GPU
