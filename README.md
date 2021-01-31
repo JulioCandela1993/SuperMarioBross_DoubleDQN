@@ -13,4 +13,6 @@ Artificial Intelligence. Then, the Double DQN will be presented to
 deal with some of the deficiencies of CNN in DQN so that the agent
 can learn better policies and maximize the rewards.
 
+The main file: [DoubleDQN_MarioBros.ipynb](https://github.com/JulioCandela1993/SuperMarioBross_DoubleDQN/blob/master/DoubleDQN_MarioBros.ipynb)
+
 Note: Trained with GPU. Execute the code with GPU
